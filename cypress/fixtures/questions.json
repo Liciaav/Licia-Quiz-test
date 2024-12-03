@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "1",
+    "question": "What is 2 + 2?",
+    "answers": [
+      { "text": "3", "isCorrect": false },
+      { "text": "4", "isCorrect": true },
+      { "text": "5", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "2",
+    "question": "What is the capital of France?",
+    "answers": [
+      { "text": "Rome", "isCorrect": false },
+      { "text": "Paris", "isCorrect": true },
+      { "text": "Berlin", "isCorrect": false }
+    ]
+  }
+]
